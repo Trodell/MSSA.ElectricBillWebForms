@@ -1,0 +1,10 @@
+C:\Users\Owner\source\MSSA\20483\Week4ChallengeLab1\bin\Debug\Week4ChallengeLab1.exe.config
+C:\Users\Owner\source\MSSA\20483\Week4ChallengeLab1\bin\Debug\Week4ChallengeLab1.exe
+C:\Users\Owner\source\MSSA\20483\Week4ChallengeLab1\bin\Debug\Week4ChallengeLab1.pdb
+C:\Users\Owner\source\MSSA\20483\Week4ChallengeLab1\obj\Debug\Week4ChallengeLab1.csproj.AssemblyReference.cache
+C:\Users\Owner\source\MSSA\20483\Week4ChallengeLab1\obj\Debug\Week4ChallengeLab1.Form1.resources
+C:\Users\Owner\source\MSSA\20483\Week4ChallengeLab1\obj\Debug\Week4ChallengeLab1.Properties.Resources.resources
+C:\Users\Owner\source\MSSA\20483\Week4ChallengeLab1\obj\Debug\Week4ChallengeLab1.csproj.GenerateResource.cache
+C:\Users\Owner\source\MSSA\20483\Week4ChallengeLab1\obj\Debug\Week4ChallengeLab1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\MSSA\20483\Week4ChallengeLab1\obj\Debug\Week4ChallengeLab1.exe
+C:\Users\Owner\source\MSSA\20483\Week4ChallengeLab1\obj\Debug\Week4ChallengeLab1.pdb
